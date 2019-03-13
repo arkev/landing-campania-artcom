@@ -1,0 +1,67 @@
+@import 'mixins';
+@import 'typeimg';
+@import 'variab';
+//Variables
+@grisObscuro: #373839;
+@grisClaro: #979797;
+
+//Mixins
+.roboto() {
+  font-family: 'Roboto', sans-serif;
+}
+
+//General
+html {
+  font-size: 62%;
+  .roboto();
+}
+
+body {
+  .fontSize(16);
+}
+
+.row {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+header {
+  background: @grisObscuro;
+
+  .col-xs-3 {
+    border-right: 1px solid @grisClaro;
+    border-bottom: 1px solid @grisClaro;
+  }
+
+  .col-xs-6 {
+    border-bottom: 1px solid @grisClaro;
+  }
+
+  img {
+    padding: 25px 0;
+    height: 40px;
+    width: auto;
+
+    @media @tablet {
+      padding: 45px 0 45px 1rem;
+      height: 50px;
+
+      &.marginRight {
+        padding-right: 1rem;
+      }
+    }
+
+    @media @laptop {
+      padding: 50px 0 50px 2rem;
+      height: 60px;
+
+      &.marginRight {
+        padding-right: 2rem;
+      }
+    }
+
+    &.w100 {
+      width: 100%;
+    }
+  }
+}
