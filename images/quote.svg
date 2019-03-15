@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="440px" viewBox="0 0 360 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Arquitectura" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-2" transform="translate(-540.000000, -2199.000000)">
+            <g id="Photos" transform="translate(-64.000000, 1739.000000)">
+                <g id="7" transform="translate(604.000000, 460.000000)">
+                    <g id="Bg" fill="#F7F8F9">
+                        <rect id="Rectangle-" x="0" y="0" width="360" height="440" rx="8"></rect>
+                    </g>
+                    <g id="quote" transform="translate(75.000000, 127.000000)" fill="#9B9B9B">
+                        <path d="M211.212,14.585 C178.575,14.585 150.388,34.005 137.433,61.929 C144.114,57.829 151.959,55.465 160.346,55.465 C184.653,55.465 204.456,75.32 204.456,99.734 C204.456,124.148 184.653,144.006 160.346,144.006 C136.04,144.006 116.269,124.148 116.269,99.734 C116.269,98.867 116.301,98.004 116.35,97.147 C116.319,96.88 116.269,96.617 116.269,96.342 C116.269,43.756 158.856,0.986 211.212,0.986 C214.987,0.986 218.001,4.008 218.001,7.762 C218.001,11.563 214.987,14.585 211.212,14.585 L211.212,14.585 Z M95.937,14.585 C63.289,14.585 35.077,34.017 22.119,61.956 C28.808,57.839 36.667,55.465 45.07,55.465 C69.377,55.465 89.147,75.32 89.147,99.734 C89.147,124.148 69.377,144.006 45.07,144.006 C20.768,144.006 0.998,124.148 0.998,99.734 C0.998,98.868 1.03,98.008 1.08,97.153 C1.047,96.885 0.998,96.62 0.998,96.342 C0.998,43.756 43.581,0.986 95.937,0.986 C99.679,0.986 102.729,4.008 102.729,7.762 C102.729,11.563 99.679,14.585 95.937,14.585 L95.937,14.585 Z" id="Shape"></path>
+                    </g>
+                    <text id="Don't-play-what's-th" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-size="36" font-weight="300" line-spacing="48" fill="#000000">
+                        <tspan x="135.126" y="132.028">Don't </tspan>
+                        <tspan x="100.188" y="180.028">play what's </tspan>
+                        <tspan x="101.322" y="228.028">there, play </tspan>
+                        <tspan x="104.418" y="276.028">what's not </tspan>
+                        <tspan x="133.326" y="324.028">there. </tspan>
+                        <tspan x="229.302" y="325" font-family="Montserrat-Light, Montserrat"></tspan>
+                    </text>
+                    <text id="—-Miles-davis" font-family="BrandonGrotesque-Regular, Brandon Grotesque" font-size="15" font-weight="normal" line-spacing="28" fill="#000000">
+                        <tspan x="230" y="38">— Miles davis</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

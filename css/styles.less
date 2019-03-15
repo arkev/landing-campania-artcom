@@ -11,7 +11,7 @@
   font-family: 'Roboto', sans-serif;
 }
 
-.button(@fontSize:12) {
+.button(@fontSize: 12) {
   border: 0;
   background: @colorPrincipal;
   border-radius: 4px;
@@ -82,27 +82,37 @@ header {
 #cta {
   background: @grisObscuro;
   position: relative;
+
+  //Div vacío
+  &>div>div:nth-child(3) {
+    height: 7em;
+  }
+
   //Slogan
-  &>div.col-xs-9.col-sm-7.end-xs.middle-xs>img {
+  &>div>div:nth-child(2)>img {
     width: 75%;
     margin: 2em 0 3.5em;
     max-width: 615px;
   }
+
   //Chico
-  &>div.col-xs-3.col-sm-5>img {
+  &>div>div:nth-child(1)>img {
     height: 70vh;
     width: auto;
     max-width: fit-content;
     .absoluta (2em, -60%);
     z-index: 1;
+
     @media @tablet {
       .absoluta (2em, -10%);
       height: 50vh;
     }
+
     @media @laptop {
       .absoluta (2em, 0%);
       height: 60vh;
     }
+
     @media @desktop {
       height: 65vh;
     }
@@ -117,25 +127,32 @@ header {
     right: 0;
     z-index: 0;
     top: 130px;
+
     @media @tablet {
       top: 200px;
     }
+
     @media @laptop {
       top: 250px;
     }
+
     @media @bigScreen {
       top: 315px;
     }
+
     p {
       color: white;
       .fontSize(14);
       line-height: 1.5em;
+
       @media @tablet {
         .fontSize(18);
       }
+
       @media @laptop {
         .fontSize(21);
       }
+
       @media @desktop {
         .fontSize(24);
       }
@@ -143,15 +160,73 @@ header {
 
     button {
       .button(12);
+
       @media @tablet {
         .button(18);
       }
+
       @media @laptop {
         .fontSize(21);
       }
+
       @media @desktop {
         .fontSize(24);
       }
+    }
+  }
+}
+
+#beneficios {
+  background: @colorPrincipal;
+  padding: 14em 5% 90px;
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+  .col-xs-12{
+    margin-bottom: 1.5em;
+  }
+
+  .icono {
+    background: @grisObscuro;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    margin: 0 auto;
+    position: relative;
+
+    img {
+      .absoluta (25px, 25px);
+    }
+  }
+  h2, p{
+    text-align: center;
+    color: white;
+  }
+  p{
+    line-height: 1.5em;
+  }
+}
+
+#fotos{
+  background: #1E1F20;
+  padding: 70px 5%;
+  color: white;
+  h2{
+    text-align: center;
+    .fontSize(32);
+    margin-bottom: 2em;
+  }
+  .pie{
+    background: white;
+    color: @grisObscuro;
+    padding: 1rem;
+    border-radius: 0 0 10px 10px;
+    margin-top: -4px;
+    h3{
+      margin: 0;
+    }
+    p{
+      margin-top: 5px;
     }
   }
 }

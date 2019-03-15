@@ -71715,6 +71715,17 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/images/arquitectos.jpg": {
+		"ft": 16384,
+		"iS": 26919,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/arquitectos.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/artcom.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -71736,6 +71747,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/Certificaciones.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/images/Certificaciones.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/images/estudiante-um.png": {
 		"ft": 32768,
 		"iS": 1010849,
@@ -71746,6 +71767,69 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/images/Experiencia.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/images/Experiencia.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/images/Inspiracion.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/images/Inspiracion.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/images/maqueta1.jpg": {
+		"ft": 16384,
+		"iS": 43855,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/maqueta1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/maqueta2.jpg": {
+		"ft": 16384,
+		"iS": 71515,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/maqueta2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/maqueta3.jpg": {
+		"ft": 16384,
+		"iS": 45228,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/maqueta3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/quote.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/images/quote.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/images/slogan-arquitectura.svg": {
 		"ft": 2097152,
