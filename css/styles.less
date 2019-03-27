@@ -7,8 +7,8 @@
 @colorPrincipal: #E12E3F;
 
 //Mixins
-.roboto() {
-  font-family: 'Roboto', sans-serif;
+.brandonGrotesque() {
+  font-family: 'brandon-grotesque', sans-serif;
 }
 
 .button(@fontSize: 12) {
@@ -26,7 +26,7 @@
 //General
 html {
   font-size: 62%;
-  .roboto();
+  .brandonGrotesque();
 }
 
 body {
@@ -97,7 +97,7 @@ header {
 
   //Chico
   &>div>div:nth-child(1)>img {
-    height: 70vh;
+    height: 68vh;
     width: auto;
     max-width: fit-content;
     .absoluta (2em, -60%);
@@ -216,12 +216,28 @@ header {
     .fontSize(32);
     margin-bottom: 2em;
   }
+  .col-xs-12 {
+    margin-bottom: 1em;
+    img{
+      width: 100%;
+    }
+    .tarjeta{
+      position: relative;
+      background: white;
+      height: 100%;
+      border-radius: 0 0 10px 10px;
+    }
+  }
   .pie{
     background: white;
     color: @grisObscuro;
     padding: 1rem;
     border-radius: 0 0 10px 10px;
     margin-top: -4px;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    box-sizing: border-box;
     h3{
       margin: 0;
     }
