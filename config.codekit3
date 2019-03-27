@@ -71759,12 +71759,12 @@
 		},
 	"/images/chica-estudiante-artcom.png": {
 		"ft": 32768,
-		"iS": 791373,
+		"iS": 491018,
 		"oA": 0,
 		"oAP": "/images/chica-estudiante-artcom.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
