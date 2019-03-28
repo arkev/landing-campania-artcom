@@ -1,6 +1,7 @@
 @import 'mixins';
 @import 'typeimg';
 @import 'variab';
+
 //Variables
 @grisObscuro: #373839;
 @grisClaro: #979797;
@@ -211,6 +212,10 @@ header {
   background: #1E1F20;
   padding: 70px 5%;
   color: white;
+  & > div > div > img{
+    margin-bottom: 1rem;
+    width: 100%;
+  }
   h2{
     text-align: center;
     .fontSize(32);
@@ -229,4 +234,8 @@ header {
       margin-top: 5px;
     }
   }
+}
+#formulario{
+  padding: 120px 5%;
+  background-color: #262626;
 }

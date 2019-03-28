@@ -71757,6 +71757,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/images/chica-estudiante-artcom.png": {
+		"ft": 32768,
+		"iS": 878504,
+		"oA": 0,
+		"oAP": "/images/chica-estudiante-artcom.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/estudiante-um.png": {
 		"ft": 32768,
 		"iS": 1010849,
