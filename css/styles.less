@@ -8,230 +8,345 @@
 @colorPrincipal: #E12E3F;
 
 //Mixins
-.roboto() {
-  font-family: 'Roboto', sans-serif;
+.brandonGrotesque() {
+    font-family: 'brandon-grotesque', sans-serif;
 }
 
 .button(@fontSize: 12) {
-  border: 0;
-  background: @colorPrincipal;
-  border-radius: 4px;
-  font-weight: @black;
-  .fontSize(@fontSize);
-  color: white;
-  letter-spacing: 0.22px;
-  text-align: center;
-  padding: 1em;
+    border: 0;
+    background: @colorPrincipal;
+    border-radius: 4px;
+    .fontWeight(@black);
+    .fontSize(@fontSize);
+    color: white;
+    letter-spacing: 0.22px;
+    text-align: center;
+    padding: 1em;
 }
 
 //General
 html {
-  font-size: 62%;
-  .roboto();
+    font-size: 62.5%;
+    .brandonGrotesque();
 }
 
 body {
-  .fontSize(16);
+    .fontSize(16);
 }
 
 .row {
-  margin-right: 0;
-  margin-left: 0;
+    margin-right: 0;
+    margin-left: 0;
 }
 
 header {
-  background: @grisObscuro;
+    background: @grisObscuro;
 
-  .col-xs-3 {
-    border-right: 1px solid @grisClaro;
-    border-bottom: 1px solid @grisClaro;
-  }
-
-  .col-xs-6 {
-    border-bottom: 1px solid @grisClaro;
-  }
-
-  img {
-    padding: 25px 0;
-    height: 40px;
-    width: auto;
-
-    @media @tablet {
-      padding: 45px 0 45px 1rem;
-      height: 50px;
-
-      &.marginRight {
-        padding-right: 1rem;
-      }
+    .col-xs-3 {
+        border-right: 1px solid @grisClaro;
+        border-bottom: 1px solid @grisClaro;
     }
 
-    @media @laptop {
-      padding: 50px 0 50px 2rem;
-      height: 60px;
-
-      &.marginRight {
-        padding-right: 2rem;
-      }
+    .col-xs-6 {
+        border-bottom: 1px solid @grisClaro;
     }
 
-    &.w100 {
-      width: 100%;
+    img {
+        padding: 25px 0;
+        height: 40px;
+        width: auto;
+
+        @media @tablet {
+            padding: 45px 0 45px 1rem;
+            height: 50px;
+
+            &.marginRight {
+                padding-right: 1rem;
+            }
+        }
+
+        @media @laptop {
+            padding: 50px 0 50px 2rem;
+            height: 60px;
+
+            &.marginRight {
+                padding-right: 2rem;
+            }
+        }
+
+        &.w100 {
+            width: 100%;
+        }
     }
-  }
 }
 
 #cta {
-  background: @grisObscuro;
-  position: relative;
+    background: @grisObscuro;
+    position: relative;
 
-  //Div vacío
-  &>div>div:nth-child(3) {
-    height: 7em;
-  }
-
-  //Slogan
-  &>div>div:nth-child(2)>img {
-    width: 75%;
-    margin: 2em 0 3.5em;
-    max-width: 615px;
-  }
-
-  //Chico
-  &>div>div:nth-child(1)>img {
-    height: 70vh;
-    width: auto;
-    max-width: fit-content;
-    .absoluta (2em, -60%);
-    z-index: 1;
-
-    @media @tablet {
-      .absoluta (2em, -10%);
-      height: 50vh;
+    //Div vacío
+    &>div>div:nth-child(3) {
+        height: 7em;
     }
 
-    @media @laptop {
-      .absoluta (2em, 0%);
-      height: 60vh;
+    //Slogan
+    &>div>div:nth-child(2)>img {
+        width: 75%;
+        margin: 2em 0 3.5em;
+        max-width: 615px;
     }
 
-    @media @desktop {
-      height: 65vh;
-    }
-  }
+    //Chico
+    &>div>div:nth-child(1)>img {
+        height: 68vh;
+        width: auto;
+        max-width: fit-content;
+        .absoluta (2em, -60%);
+        z-index: 1;
 
-  .cta {
-    padding: 2em 1em 4em;
-    background: url(../images/bkg-arquitectura.jpg) center top no-repeat;
-    background-size: 200%;
-    width: 55%;
-    position: absolute;
-    right: 0;
-    z-index: 0;
-    top: 130px;
+        @media @tablet {
+            .absoluta (2em, -10%);
+            height: 50vh;
+        }
 
-    @media @tablet {
-      top: 200px;
-    }
+        @media @laptop {
+            .absoluta (2em, 0%);
+            height: 60vh;
+        }
 
-    @media @laptop {
-      top: 250px;
-    }
-
-    @media @bigScreen {
-      top: 315px;
+        @media @desktop {
+            height: 65vh;
+        }
     }
 
-    p {
-      color: white;
-      .fontSize(14);
-      line-height: 1.5em;
+    .cta {
+        padding: 2em 1em 4em;
+        background: url(../images/bkg-arquitectura.jpg) center top no-repeat;
+        background-size: 200%;
+        width: 55%;
+        position: absolute;
+        right: 0;
+        z-index: 0;
+        top: 130px;
 
-      @media @tablet {
-        .fontSize(18);
-      }
+        @media @tablet {
+            top: 200px;
+        }
 
-      @media @laptop {
-        .fontSize(21);
-      }
+        @media @laptop {
+            top: 250px;
+        }
 
-      @media @desktop {
-        .fontSize(24);
-      }
+        @media @bigScreen {
+            top: 315px;
+        }
+
+        p {
+            color: white;
+            .fontSize(14);
+            line-height: 1.5em;
+
+            @media @tablet {
+                .fontSize(18);
+            }
+
+            @media @laptop {
+                .fontSize(21);
+            }
+
+            @media @desktop {
+                .fontSize(24);
+            }
+        }
+
+        button {
+            .button(12);
+
+            @media @tablet {
+                .button(18);
+            }
+
+            @media @laptop {
+                .fontSize(21);
+            }
+
+            @media @desktop {
+                .fontSize(24);
+            }
+        }
     }
-
-    button {
-      .button(12);
-
-      @media @tablet {
-        .button(18);
-      }
-
-      @media @laptop {
-        .fontSize(21);
-      }
-
-      @media @desktop {
-        .fontSize(24);
-      }
-    }
-  }
 }
 
 #beneficios {
-  background: @colorPrincipal;
-  padding: 14em 5% 90px;
-  width: 100%;
-  display: block;
-  box-sizing: border-box;
-  .col-xs-12{
-    margin-bottom: 1.5em;
-  }
+    background: @colorPrincipal;
+    padding: 14em 5% 90px;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
 
-  .icono {
-    background: @grisObscuro;
-    border-radius: 50%;
-    width: 130px;
-    height: 130px;
-    margin: 0 auto;
-    position: relative;
-
-    img {
-      .absoluta (25px, 25px);
+    .col-xs-12 {
+        margin-bottom: 1.5em;
     }
-  }
-  h2, p{
-    text-align: center;
-    color: white;
-  }
-  p{
-    line-height: 1.5em;
-  }
+
+    .icono {
+        background: @grisObscuro;
+        border-radius: 50%;
+        width: 130px;
+        height: 130px;
+        margin: 0 auto;
+        position: relative;
+
+        img {
+            .absoluta (25px, 25px);
+        }
+    }
+
+    h2,
+    p {
+        text-align: center;
+        color: white;
+    }
+
+    p {
+        line-height: 1.5em;
+    }
 }
 
-#fotos{
-  background: #1E1F20;
-  padding: 70px 5%;
-  color: white;
-  & > div > div > img{
-    margin-bottom: 1rem;
-    width: 100%;
-  }
-  h2{
-    text-align: center;
-    .fontSize(32);
-    margin-bottom: 2em;
-  }
-  .pie{
-    background: white;
-    color: @grisObscuro;
-    padding: 1rem;
-    border-radius: 0 0 10px 10px;
-    margin-top: -4px;
-    h3{
-      margin: 0;
+#fotos {
+    background: #1E1F20;
+    padding: 70px 5%;
+    color: white;
+
+    h2 {
+        text-align: center;
+        .fontSize(32);
+        margin-bottom: 2em;
     }
-    p{
-      margin-top: 5px;
+
+    .col-xs-12 {
+        margin-bottom: 1em;
+
+        img {
+            width: 100%;
+        }
+
+        .tarjeta {
+            position: relative;
+            background: white;
+            height: 100%;
+            border-radius: 0 0 10px 10px;
+        }
+    }
+
+    .pie {
+        background: white;
+        color: @grisObscuro;
+        padding: 1rem;
+        border-radius: 0 0 10px 10px;
+        margin-top: -4px;
+        position: absolute;
+        bottom: 0%;
+        width: 100%;
+        box-sizing: border-box;
+
+        h3 {
+            margin: 0;
+        }
+
+        p {
+            margin-top: 5px;
+        }
+    }
+}
+
+#formulario {
+    background: url(../images/chica-estudiante-artcom.png) 30vw bottom / 48vh no-repeat black;
+    padding: 75px 5%;
+    color: white;
+
+    @media @tablet{
+      background: url(../images/chica-estudiante-artcom.png) right bottom / contain no-repeat black;
+    }
+
+    @media @desktop{
+      background: url(../images/chica-estudiante-artcom.png) 60vw bottom / contain no-repeat black;
+    }
+
+    h2 {
+        .fontSize(50);
+        margin: 0 0 .5em;
+    }
+
+    p {
+        margin-top: 0;
+        .fontSize(20);
+        line-height: 1.15em;
+        text-shadow: 2px 2px 3px black;
+    }
+
+    input {
+        background: white;
+        border: 1px solid rgba(0, 0, 0, 0.20);
+        border-radius: 4px;
+        .fontSize(20);
+        color: rgba(24, 25, 27, 0.40);
+        width: 100%;
+        padding: 15px;
+        box-sizing: border-box;
+        margin-bottom: 12px;
+    }
+
+    input[type="submit"] {
+        background: transparent;
+        border: 3px solid white;
+        .fontWeight(@black);
+        border-radius: 4px;
+        color: #E8E9ED;
+        text-align: center;
+        line-height: 24px;
+        .fontSize(19);
+    }
+}
+
+#split {
+  color: white;
+  text-align: center;
+  h2{
+    .fontSize(28);
+  }
+  p{
+    .fontSize(20);
+    @media @bigScreen{
+      width: 70%;
+    }
+  }
+  & > div.col-xs-12.col-sm-7.end-sm > p{
+    @media @bigScreen{
+      float: right;
+    }
+  }
+  & > div:nth-child(1){
+    background: url(../images/arquitectos-um-1.jpg) center center / cover no-repeat;
+    height: 25vh;
+    @media @tablet{
+      height:initial;
+    }
+  }
+  & > div:nth-child(2){
+    background: @colorPrincipal;
+    padding:50px 5%;
+    text-align: left;
+  }
+  & > div:nth-child(3){
+    background: #4A4A4A;
+    padding:50px 5%;
+    text-align: right;
+  }
+  & > div:nth-child(4){
+    background: url(../images/arquitectos-um-2.jpg) center center / cover no-repeat;
+    height: 25vh;
+    @media @tablet{
+      height:initial;
     }
   }
 }

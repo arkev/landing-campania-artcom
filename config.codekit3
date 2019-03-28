@@ -71715,6 +71715,28 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/images/arquitectos-um-1.jpg": {
+		"ft": 16384,
+		"iS": 49180,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/arquitectos-um-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/arquitectos-um-2.jpg": {
+		"ft": 16384,
+		"iS": 77309,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/arquitectos-um-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/arquitectos.jpg": {
 		"ft": 16384,
 		"iS": 26919,
@@ -71759,7 +71781,7 @@
 		},
 	"/images/chica-estudiante-artcom.png": {
 		"ft": 32768,
-		"iS": 878504,
+		"iS": 491018,
 		"oA": 0,
 		"oAP": "/images/chica-estudiante-artcom.png",
 		"oF": 0,
