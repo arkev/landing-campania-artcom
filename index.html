@@ -13,6 +13,15 @@
     <link rel="stylesheet" href="bower_components/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
     <link rel="stylesheet" href="css/styles.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137248619-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137248619-1');
+    </script>
 </head>
 
 <body>
@@ -31,10 +40,12 @@
     <section id="cta">
         <div class="row">
             <div class="col-xs-3 col-sm-5">
-                <img src="images/estudiante-um.png" alt="Estudiante de Arquitectura" class="box chico wow slideInLeft" data-wow-delay="1s">
+                <img src="images/estudiante-um.png" alt="Estudiante de Arquitectura" class="box chico wow slideInLeft"
+                    data-wow-delay="1s">
             </div>
             <div class="col-xs-9 col-sm-7 end-xs middle-xs">
-                <img src="images/slogan-arquitectura.svg" alt="Construir para una nueva realidad" class="box wow slideInRight" data-wow-delay="1.5s">
+                <img src="images/slogan-arquitectura.svg" alt="Construir para una nueva realidad"
+                    class="box wow slideInRight" data-wow-delay="1.5s">
             </div>
             <div class="col-xs-3 col-sm-5">
 
@@ -97,7 +108,8 @@
                 <img src="images/maqueta3.jpg" alt="estudio arquitectura" class="box wow fadeIn" data-wow-delay="1s">
             </div>
             <div class="col-xs-12 col-sm-4 col-lg-2">
-                <img src="images/quote.svg" alt="Don't play what's there, play what's not there" class="box wow fadeIn" data-wow-delay="1.5s">
+                <img src="images/quote.svg" alt="Don't play what's there, play what's not there" class="box wow fadeIn"
+                    data-wow-delay="1.5s">
             </div>
             <div class="col-xs-12 col-sm-4 col-lg-2">
                 <div class="tarjeta wow fadeIn" data-wow-delay="2s">
@@ -162,13 +174,16 @@
                 <div class="box">
                     <div class="row around-xs">
                         <div class="col-xs col-sm-12">
-                            <a href="https://www.facebook.com/Arquitecturaum/"><i class="box fab fa-facebook-f wow bounceInUp"></i></a>
+                            <a href="https://www.facebook.com/Arquitecturaum/"><i
+                                    class="box fab fa-facebook-f wow bounceInUp"></i></a>
                         </div>
                         <div class="col-xs col-sm-12">
-                            <a href="https://www.instagram.com/umarquitectura/"><i class="box fab fa-instagram wow bounceInUp" data-wow-delay=".5s"></i></a>
+                            <a href="https://www.instagram.com/umarquitectura/"><i
+                                    class="box fab fa-instagram wow bounceInUp" data-wow-delay=".5s"></i></a>
                         </div>
                         <div class="col-xs col-sm-12">
-                            <a href="tel:8113205591"><i class="box fas fa-phone wow bounceInUp" data-wow-delay="1s"></i></a>
+                            <a href="tel:8113205591"><i class="box fas fa-phone wow bounceInUp"
+                                    data-wow-delay="1s"></i></a>
                         </div>
                     </div>
                 </div>
@@ -190,11 +205,11 @@
                 h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = 'https://use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
         })(document);
     </script>
+     <!-- WOW -->
     <script src="bower_components/wow/dist/wow.min.js"></script>
     <script>
         new WOW().init();
     </script>
-
 </body>
 
 </html>
