@@ -320,7 +320,7 @@ header {
       width: 70%;
     }
   }
-  & > div.col-xs-12.col-sm-7.end-sm > p{
+  & > div:nth-child(3) > p{
     @media @bigScreen{
       float: right;
     }
@@ -350,7 +350,34 @@ header {
     }
   }
 }
-#formulario{
-  padding: 120px 5%;
-  background-color: #262626;
+
+footer{
+    background: #1E1F20;
+    padding: 35px 5%;
+    @media @tablet{
+        padding: 90px 5%;
+    }
+    @media @laptop{
+        padding: 30px 5%;
+    }
+    & > div > div:nth-child(1) > img {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 50px;
+    }
+    .fab, .fas{
+        color: #9B9B9B;
+        .fontSize(24);
+        @media @tablet{
+            margin-bottom: 35px;
+        }
+    }
+    & > div > div:nth-child(3) > img{
+        width: 100%;
+        max-width: 550px;
+        margin-top: 80px;
+        @media @tablet{
+            margin-top: 0;
+        }
+    }
 }
