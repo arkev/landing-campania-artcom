@@ -136,11 +136,20 @@
                 <p class="box"></p>
             </div>
             <div class="col-xs-9 col-sm-7 col-md-6 col-lg-offset-1 col-lg-6">
-                <form action="" class="box">
-                    <input type="text" name="nombre" id="nombre" placeholder="Nombre(s)">
-                    <input type="text" name="apellido" id="apellido" placeholder="Apellidos">
-                    <input type="email" name="email" id="email" placeholder="Correo electrónico">
-                    <input type="tel" name="telefono" id="telefono" placeholder="Teléfono fijo o móvil">
+                <form id="agile-form" action="https://artcom.agilecrm.com/formsubmit" method="POST">
+                    <div class="hide">
+                        <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Formulario de las landing Artcom">
+                        <input type="hidden" id="_agile_domain" name="_agile_domain" value="artcom">
+                        <input type="hidden" id="_agile_api" name="_agile_api" value="k5bkq29r3g9l9umibsp79ti05d">
+                        <input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="#">
+                        <input type="hidden" id="_agile_confirmation_msg" name="_agile_confirmation_msg" value="Gracias en breve te contactaremos por email">
+                        <input type="hidden" id="_agile_form_id_tags" name="tags" value="RealidadArtcom, arquitectura">
+                        <input type="hidden" id="_agile_form_id" name="_agile_form_id" value="5349283681927168">
+                    </div>
+                    <input type="text" name="first_name" id="nombre" placeholder="Nombre(s)" required="">
+                    <input type="text" name="last_name" id="apellido" placeholder="Apellidos" required="">
+                    <input type="email" name="email" id="email" placeholder="Correo electrónico" required="">
+                    <input type="tel" name="phone" id="telefono" placeholder="Teléfono fijo o móvil">
                     <input type="submit" value="QUIERO ESTUDIAR">
                 </form>
             </div>
@@ -205,10 +214,22 @@
                 h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = 'https://use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
         })(document);
     </script>
-     <!-- WOW -->
+    <!-- WOW -->
     <script src="bower_components/wow/dist/wow.min.js"></script>
     <script>
         new WOW().init();
+    </script>
+    <!-- Agile -->
+    <script type="text/javascript">
+        (function (a) { var b = a.onload, p = true; isCaptcha = false; if (p) { a.onload = "function" != typeof b ? function () { try { _agile_load_form_fields() } catch (a) { } } : function () { b(); try { _agile_load_form_fields() } catch (a) { } } }; var formLen = document.forms.length; for (i = 0; i < formLen; i++) { if (document.forms.item(i).getAttribute("id") == "agile-form") { a.document.forms.item(i).onsubmit = function (a) { a.preventDefault(); try { _agile_synch_form_v5(this) } catch (b) { this.submit() } } } } })(window);
+    </script>
+    <script id="_agile_min_js" async type="text/javascript" src="https://artcom.agilecrm.com/stats/min/agile-min.js"> </script>
+    <script type="text/javascript">
+        var Agile_API = Agile_API || {}; Agile_API.on_after_load = function () {
+            _agile.set_account('k5bkq29r3g9l9umibsp79ti05d', 'artcom', false);
+            _agile.track_page_view();
+            _agile_execute_web_rules();
+        };
     </script>
 </body>
 
