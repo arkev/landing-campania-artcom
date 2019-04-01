@@ -1,0 +1,24 @@
+// Typekit
+script.
+	(function (d) {
+	var config = {
+	kitId: 'xau0zls',
+	scriptTimeout: 3000,
+	async: true
+	},
+	h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = 'https://use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
+	})(document);
+// WOW
+script(src='../bower_components/wow/dist/wow.min.js')
+script.
+	new WOW().init();
+// Agile
+script(type='text/javascript').
+	(function (a) { var b = a.onload, p = true; isCaptcha = false; if (p) { a.onload = "function" != typeof b ? function () { try { _agile_load_form_fields() } catch (a) { } } : function () { b(); try { _agile_load_form_fields() } catch (a) { } } }; var formLen = document.forms.length; for (i = 0; i < formLen; i++) { if (document.forms.item(i).getAttribute("id") == "agile-form") { a.document.forms.item(i).onsubmit = function (a) { a.preventDefault(); try { _agile_synch_form_v5(this) } catch (b) { this.submit() } } } } })(window);
+script#_agile_min_js(async='', type='text/javascript', src='https://artcom.agilecrm.com/stats/min/agile-min.js')
+script(type='text/javascript').
+	var Agile_API = Agile_API || {}; Agile_API.on_after_load = function () {
+	_agile.set_account('k5bkq29r3g9l9umibsp79ti05d', 'artcom', false);
+	_agile.track_page_view();
+	_agile_execute_web_rules();
+	};
