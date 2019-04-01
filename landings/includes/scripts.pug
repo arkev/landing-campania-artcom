@@ -13,12 +13,14 @@ script(src='../bower_components/wow/dist/wow.min.js')
 script.
 	new WOW().init();
 // Agile
-script(type='text/javascript').
+script.
 	(function (a) { var b = a.onload, p = true; isCaptcha = false; if (p) { a.onload = "function" != typeof b ? function () { try { _agile_load_form_fields() } catch (a) { } } : function () { b(); try { _agile_load_form_fields() } catch (a) { } } }; var formLen = document.forms.length; for (i = 0; i < formLen; i++) { if (document.forms.item(i).getAttribute("id") == "agile-form") { a.document.forms.item(i).onsubmit = function (a) { a.preventDefault(); try { _agile_synch_form_v5(this) } catch (b) { this.submit() } } } } })(window);
 script#_agile_min_js(async='', type='text/javascript', src='https://artcom.agilecrm.com/stats/min/agile-min.js')
-script(type='text/javascript').
+script.
 	var Agile_API = Agile_API || {}; Agile_API.on_after_load = function () {
 	_agile.set_account('k5bkq29r3g9l9umibsp79ti05d', 'artcom', false);
 	_agile.track_page_view();
 	_agile_execute_web_rules();
 	};
+// Mis propios scripts
+script(src='../landings/js/min/scripts-min.js')

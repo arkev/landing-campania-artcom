@@ -1,0 +1,2 @@
+var button=document.querySelector("button.smooth");button.addEventListener("click",function(){document.querySelector("#formulario").scrollIntoView({behavior:"smooth"})});
+//# sourceMappingURL=scripts-min.js.map

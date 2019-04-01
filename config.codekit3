@@ -72003,6 +72003,36 @@
 		"oF": 1,
 		"oS": 0
 		},
+	"/landings/js/min/scripts-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/landings/js/min/min/scripts-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/landings/js/min/scripts-min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/landings/js/min/scripts-min.js.map",
+		"oF": 0
+		},
+	"/landings/js/scripts.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 1,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/landings/js/min/scripts-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/landings/pruebas.html": {
 		"cB": 0,
 		"ft": 8192,

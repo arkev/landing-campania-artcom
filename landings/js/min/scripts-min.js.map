@@ -1,0 +1,1 @@
+{"version":3,"sources":["../scripts.js"],"names":["button","document","querySelector","addEventListener","scrollIntoView","behavior"],"mappings":"AAAA,IAAIA,OAASC,SAASC,cAAc,iBACpCF,OAAOG,iBAAiB,QAAS,WAE7BF,SAASC,cAAc,eAAeE,eAAe,CACjDC,SAAU"}
