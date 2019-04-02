@@ -17,6 +17,24 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/arquitectura/gracias.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/arquitectura/gracias.html",
+		"oF": 0
+		},
+	"/arquitectura/gracias.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/arquitectura/gracias.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"/arquitectura/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -71963,6 +71981,16 @@
 		"oF": 1,
 		"oS": 0
 		},
+	"/landings/includes/graciasMsg.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/landings/includes/graciasMsg.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"/landings/includes/head.pug": {
 		"cB": 0,
 		"cOD": 1,
@@ -72032,6 +72060,14 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"/landings/PlanesARTCOM.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/landings/PlanesARTCOM.pdf",
+		"oF": 0
 		},
 	"/landings/pruebas.html": {
 		"cB": 0,
