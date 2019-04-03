@@ -1,7 +1,11 @@
 section#cta
 	.row
 		.col-xs-3.col-sm-5
-			img.box.chico.wow.slideInLeft(src='../landings/images/estudiante-um.png', alt='Estudiante de ' + carrera, data-wow-delay='1s')
+			img.box.chico.wow.slideInLeft(
+				src='../landings/images/estudiante-um.png'
+				alt='Estudiante de ' + carrera
+				data-wow-delay='1s'
+			)
 		.col-xs-9.col-sm-7.end-xs.middle-xs
 			img.box.wow.slideInRight(
 				src='../landings/images/slogan-'+carreramini +'.svg'
@@ -12,6 +16,5 @@ section#cta
 		.col-xs-9.col-sm-7.end-xs.middle-xs
 			.box.cta.wow.flipInX(data-wow-delay='2s')
 				p
-					| Formamos personas comprometidas con la sustentabilidad y el mejoramiento arquitectónico para una
-					| nueva realidad
+					| Formamos personas #{formamosPersonas}.
 				button.smooth QUIERO ESTUDIAR
