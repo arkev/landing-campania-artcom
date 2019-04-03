@@ -17,6 +17,42 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/arquitectura/gracias.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/arquitectura/gracias.html",
+		"oF": 0
+		},
+	"/arquitectura/gracias.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/arquitectura/gracias.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/arquitectura/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/arquitectura/index.html",
+		"oF": 0
+		},
+	"/arquitectura/index.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/arquitectura/index.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"/bower.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -71680,25 +71716,25 @@
 		"sC": 1,
 		"tS": 1
 		},
-	"/css/styles.css": {
+	"/landings/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/styles-min.css",
+		"oAP": "/landings/css/styles-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/css/styles.css.map": {
+	"/landings/css/styles.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/css/styles.css.map",
+		"oAP": "/landings/css/styles.css.map",
 		"oF": 0
 		},
-	"/css/styles.less": {
+	"/landings/css/styles.less": {
 		"aP": 1,
 		"bl": 0,
 		"eJ": 0,
@@ -71708,199 +71744,337 @@
 		"ma": 1,
 		"mS": 0,
 		"oA": 0,
-		"oAP": "/css/styles.css",
+		"oAP": "/landings/css/styles.css",
 		"oF": 0,
 		"oS": 1,
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
 		},
-	"/images/arquitectos-um-1.jpg": {
+	"/landings/images/arquitectos-um-1.jpg": {
 		"ft": 16384,
 		"iS": 49180,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/arquitectos-um-1.jpg",
+		"oAP": "/landings/images/arquitectos-um-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/images/arquitectos-um-2.jpg": {
+	"/landings/images/arquitectos-um-2.jpg": {
 		"ft": 16384,
 		"iS": 77309,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/arquitectos-um-2.jpg",
+		"oAP": "/landings/images/arquitectos-um-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/images/arquitectos.jpg": {
+	"/landings/images/arquitectos.jpg": {
 		"ft": 16384,
 		"iS": 26919,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/arquitectos.jpg",
+		"oAP": "/landings/images/arquitectos.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/images/artcom.svg": {
+	"/landings/images/artcom.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/images/artcom.svg",
+		"oAP": "/landings/images/artcom.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/images/bkg-arquitectura.jpg": {
+	"/landings/images/bkg-arquitectura.jpg": {
 		"ft": 16384,
 		"iS": 90664,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/bkg-arquitectura.jpg",
+		"oAP": "/landings/images/bkg-arquitectura.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/images/Certificaciones.svg": {
+	"/landings/images/Certificaciones.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/images/Certificaciones.svg",
+		"oAP": "/landings/images/Certificaciones.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/images/chica-estudiante-artcom.png": {
+	"/landings/images/chica-estudiante-artcom.png": {
 		"ft": 32768,
-		"iS": 491018,
+		"iS": 878504,
 		"oA": 0,
-		"oAP": "/images/chica-estudiante-artcom.png",
+		"oAP": "/landings/images/chica-estudiante-artcom.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/estudiante-um.png": {
+	"/landings/images/estudiante-um.png": {
 		"ft": 32768,
 		"iS": 1010849,
 		"oA": 0,
-		"oAP": "/images/estudiante-um.png",
+		"oAP": "/landings/images/estudiante-um.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/Experiencia.svg": {
+	"/landings/images/Experiencia.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/images/Experiencia.svg",
+		"oAP": "/landings/images/Experiencia.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/images/Inspiracion.svg": {
+	"/landings/images/Inspiracion.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/images/Inspiracion.svg",
+		"oAP": "/landings/images/Inspiracion.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/images/maqueta1.jpg": {
+	"/landings/images/maqueta1.jpg": {
 		"ft": 16384,
 		"iS": 43855,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/maqueta1.jpg",
+		"oAP": "/landings/images/maqueta1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/images/maqueta2.jpg": {
+	"/landings/images/maqueta2.jpg": {
 		"ft": 16384,
 		"iS": 71515,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/maqueta2.jpg",
+		"oAP": "/landings/images/maqueta2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/images/maqueta3.jpg": {
+	"/landings/images/maqueta3.jpg": {
 		"ft": 16384,
 		"iS": 45228,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/maqueta3.jpg",
+		"oAP": "/landings/images/maqueta3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/images/quote.svg": {
+	"/landings/images/quote.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/images/quote.svg",
+		"oAP": "/landings/images/quote.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/images/slogan-arquitectura.svg": {
+	"/landings/images/slogan-arquitectura.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/images/slogan-arquitectura.svg",
+		"oAP": "/landings/images/slogan-arquitectura.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/images/transparente.png": {
+	"/landings/images/transparente.png": {
 		"ft": 32768,
 		"iS": 110,
 		"oA": 0,
-		"oAP": "/images/transparente.png",
+		"oAP": "/landings/images/transparente.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/um.svg": {
+	"/landings/images/um.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/images/um.svg",
+		"oAP": "/landings/images/um.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/index.html": {
+	"/landings/includes/beneficios.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/landings/includes/beneficios.html",
+		"oF": 1,
+		"oS": 0
+		},
+	"/landings/includes/cta.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/landings/includes/cta.html",
+		"oF": 1,
+		"oS": 0
+		},
+	"/landings/includes/footer.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/landings/includes/footer.html",
+		"oF": 1,
+		"oS": 0
+		},
+	"/landings/includes/formulario.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/landings/includes/formulario.html",
+		"oF": 1,
+		"oS": 0
+		},
+	"/landings/includes/fotos.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/landings/includes/fotos.html",
+		"oF": 1,
+		"oS": 0
+		},
+	"/landings/includes/graciasMsg.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/landings/includes/graciasMsg.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/landings/includes/head.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/landings/includes/head.html",
+		"oF": 1,
+		"oS": 0
+		},
+	"/landings/includes/header.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/landings/includes/header.html",
+		"oF": 1,
+		"oS": 0
+		},
+	"/landings/includes/scripts.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/landings/includes/scripts.html",
+		"oF": 1,
+		"oS": 0
+		},
+	"/landings/includes/split.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/landings/includes/split.html",
+		"oF": 1,
+		"oS": 0
+		},
+	"/landings/js/min/scripts-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/landings/js/min/min/scripts-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/landings/js/min/scripts-min.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/index.html",
+		"oAP": "/landings/js/min/scripts-min.js.map",
+		"oF": 0
+		},
+	"/landings/js/scripts.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 1,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/landings/js/min/scripts-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/landings/PlanesARTCOM.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/landings/PlanesARTCOM.pdf",
+		"oF": 0
+		},
+	"/landings/pruebas.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/landings/pruebas.html",
 		"oF": 0
 		}
 	},

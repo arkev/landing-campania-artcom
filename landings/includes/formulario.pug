@@ -1,0 +1,24 @@
+section#formulario.wow.fadeIn
+	.row.wow.flipInY(data-wow-delay='1.5s')
+		.col-xs-12.col-lg-offset-1.col-lg-11
+			h2.box Contáctanos
+		.col-xs-10.col-sm-7.col-md-6.col-lg-offset-1.col-lg-6
+			p.box
+				| Formamos personas #{formamosPersonas}
+		.col-md-6.col-lg-5
+			p.box
+		.col-xs-9.col-sm-7.col-md-6.col-lg-offset-1.col-lg-6
+			form#agile-form(action='https://artcom.agilecrm.com/formsubmit', method='POST')
+				.hide
+					input#_agile_form_name(type='hidden', name='_agile_form_name', value='Formulario de las landing Artcom')
+					input#_agile_domain(type='hidden', name='_agile_domain', value='artcom')
+					input#_agile_api(type='hidden', name='_agile_api', value='k5bkq29r3g9l9umibsp79ti05d')
+					input#_agile_redirect_url(type='hidden', name='_agile_redirect_url', value=gracias)
+					input#_agile_confirmation_msg(type='hidden', name='_agile_confirmation_msg', value='Gracias en breve te contactaremos por email')
+					input#_agile_form_id_tags(type='hidden', name='tags', value='RealidadArtcom, ' +carreramini)
+					input#_agile_form_id(type='hidden', name='_agile_form_id', value='5349283681927168')
+				input#nombre(type='text', name='first_name', placeholder='Nombre(s)', required='')
+				input#apellido(type='text', name='last_name', placeholder='Apellidos', required='')
+				input#email(type='email', name='email', placeholder='Correo electrónico', required='')
+				input#telefono(type='tel', name='phone', placeholder='Teléfono fijo o móvil')
+				input(type='submit', value='QUIERO ESTUDIAR')

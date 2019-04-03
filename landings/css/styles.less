@@ -1,6 +1,7 @@
 @import 'mixins';
 @import 'typeimg';
 @import 'variab';
+
 //Variables
 @grisObscuro: #373839;
 @grisClaro: #979797;
@@ -21,21 +22,27 @@
     letter-spacing: 0.22px;
     text-align: center;
     padding: 1em;
+    cursor: pointer;
 }
 
 //General
 html {
     font-size: 62.5%;
+    scroll-behavior: smooth;
     .brandonGrotesque();
 }
-
 body {
     .fontSize(16);
 }
-
 .row {
     margin-right: 0;
     margin-left: 0;
+}
+.hide{
+    display: none;
+    visibility: hidden;
+    height: 0px; 
+    width: 0px;
 }
 
 header {
@@ -304,6 +311,7 @@ header {
         text-align: center;
         line-height: 24px;
         .fontSize(19);
+        cursor: pointer;
     }
 }
 
@@ -319,7 +327,7 @@ header {
       width: 70%;
     }
   }
-  & > div.col-xs-12.col-sm-7.end-sm > p{
+  & > div:nth-child(3) > p{
     @media @bigScreen{
       float: right;
     }
@@ -348,4 +356,69 @@ header {
       height:initial;
     }
   }
+}
+
+footer{
+    background: #1E1F20;
+    padding: 35px 5%;
+    @media @tablet{
+        padding: 90px 5%;
+    }
+    @media @laptop{
+        padding: 30px 5%;
+    }
+    & > div > div:nth-child(1) > img {
+        width: 100%;
+        max-width: 400px;
+        margin-bottom: 50px;
+    }
+    .fab, .fas{
+        color: #9B9B9B;
+        .fontSize(24);
+        @media @tablet{
+            margin-bottom: 35px;
+        }
+    }
+    & > div > div:nth-child(3) > img{
+        width: 100%;
+        max-width: 550px;
+        margin-top: 80px;
+        @media @tablet{
+            margin-top: 0;
+        }
+    }
+}
+
+#gracias{
+    padding: 80px 5%;
+    background: @colorPrincipal;
+    color: white;
+    a {
+        color: white;
+        text-decoration: none;
+        font-weight: 600;
+    }
+    .fa-check-circle{
+        .fontSize(160);
+    }
+    h1{
+        .fontSize(60);
+    }
+    p{
+        .fontSize(24);
+        margin-bottom: 2.5em;
+    }
+    .button{
+        background: transparent;
+        border: 3px solid white;
+        .fontWeight(@black);
+        border-radius: 4px;
+        color: #E8E9ED;
+        text-align: center;
+        line-height: 24px;
+        .fontSize(20);
+        cursor: pointer;
+        margin-top: 2em;
+        padding: 8px 20px;
+    }
 }
