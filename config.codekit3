@@ -53,6 +53,59 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/arte/gracias.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/arte/gracias.html",
+		"oF": 0
+		},
+	"/arte/gracias.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/arte/gracias.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/arte/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/arte/index.html",
+		"oF": 0
+		},
+	"/arte/index.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/arte/index.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/arte/style.less": {
+		"aP": 1,
+		"bl": 0,
+		"eJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"mS": 0,
+		"oA": 0,
+		"oAP": "/css/style.css",
+		"oF": 0,
+		"oS": 1,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
 	"/bower.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -71716,6 +71769,96 @@
 		"sC": 1,
 		"tS": 1
 		},
+	"/comunicacion/gracias.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/comunicacion/gracias.html",
+		"oF": 0
+		},
+	"/comunicacion/gracias.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/comunicacion/gracias.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/comunicacion/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/comunicacion/index.html",
+		"oF": 0
+		},
+	"/comunicacion/index.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/comunicacion/index.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/css/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/style.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/style.css.map",
+		"oF": 0
+		},
+	"/diseno/gracias.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/diseno/gracias.html",
+		"oF": 0
+		},
+	"/diseno/gracias.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/diseno/gracias.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/diseno/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/diseno/index.html",
+		"oF": 0
+		},
+	"/diseno/index.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/diseno/index.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"/landings/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -71743,7 +71886,7 @@
 		"iI": 0,
 		"ma": 1,
 		"mS": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/landings/css/styles.css",
 		"oF": 0,
 		"oS": 1,
@@ -71900,11 +72043,31 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/landings/images/relacion.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/relacion.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/landings/images/slogan-arquitectura.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/landings/images/slogan-arquitectura.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/landings/images/slogan-arte.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/slogan-arte.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -72067,14 +72230,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/landings/PlanesARTCOM.pdf",
-		"oF": 0
-		},
-	"/landings/pruebas.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/landings/pruebas.html",
 		"oF": 0
 		}
 	},
