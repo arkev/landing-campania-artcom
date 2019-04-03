@@ -89,6 +89,24 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/arte/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/arte/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/arte/style.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/arte/style.css.map",
+		"oF": 0
+		},
 	"/arte/style.less": {
 		"aP": 1,
 		"bl": 0,
@@ -99,9 +117,9 @@
 		"ma": 1,
 		"mS": 0,
 		"oA": 0,
-		"oAP": "/css/style.css",
-		"oF": 0,
-		"oS": 1,
+		"oAP": "/arte/style.css",
+		"oF": 2,
+		"oS": 0,
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
@@ -71805,24 +71823,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/css/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/css/style.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/css/style.css.map",
-		"oF": 0
-		},
 	"/diseno/gracias.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -71937,6 +71937,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/landings/images/arteUM.jpg": {
+		"ft": 16384,
+		"iS": 42627,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/arteUM.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/landings/images/bkg-arquitectura.jpg": {
 		"ft": 16384,
 		"iS": 90664,
@@ -71985,6 +71996,59 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/landings/images/Experiencia.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/landings/images/expo.jpg": {
+		"ft": 16384,
+		"iS": 36964,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/expo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/expoArtCom.jpg": {
+		"ft": 16384,
+		"iS": 23582,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/expoArtCom.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/expoUM.jpg": {
+		"ft": 16384,
+		"iS": 71313,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/expoUM.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/influencia.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/influencia.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/landings/images/Innovacion.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/Innovacion.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
