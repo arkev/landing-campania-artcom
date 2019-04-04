@@ -1,2 +1,40 @@
 @import '../landings/css/styles.less';
+@import 'variab';
+
 @colorPrincipal: #F31E76;
+#cta .cta{
+    background-image: url(../landings/images/bkg-arte.jpg);
+    background-size: cover;
+}
+#split>div:nth-child(1) {
+    background-image: url(../landings/images/artista.jpg);
+}
+#split>div:nth-child(4) {
+    background-image: url(../landings/images/galeria.jpg);
+}
+#formulario {
+    background-image: url(../landings/images/chica-estudiante-artcom.png);
+}
+@media @tablet{
+    #cta > div > div:nth-child(1) > img{
+        height: 45vh;
+    }
+}
+@media @laptop{
+    #cta > div > div:nth-child(1) > img{
+        height: 50vh;
+    }
+}
+@media @desktop{
+    #cta > div > div:nth-child(1) > img{
+        height: 55vh;
+    }
+}
+@media @bigScreen{
+    #cta > div > div:nth-child(1) > img{
+        height: 65vh;
+    }
+    #beneficios{
+        padding: 20em 5% 90px;
+    }
+}
