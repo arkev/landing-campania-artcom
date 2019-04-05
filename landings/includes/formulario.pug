@@ -17,6 +17,9 @@ section#formulario.wow.fadeIn
 					input#_agile_confirmation_msg(type='hidden', name='_agile_confirmation_msg', value='Gracias en breve te contactaremos por email')
 					input#_agile_form_id_tags(type='hidden', name='tags', value='RealidadArtcom, ' +carreramini)
 					input#_agile_form_id(type='hidden', name='_agile_form_id', value='5349283681927168')
+					select#carrera(name="Carrera")
+						option(value=carrera,selected)
+							|#{carrera}
 				input#nombre(type='text', name='first_name', placeholder='Nombre(s)', required='')
 				input#apellido(type='text', name='last_name', placeholder='Apellidos', required='')
 				input#email(type='email', name='email', placeholder='Correo electrónico', required='')

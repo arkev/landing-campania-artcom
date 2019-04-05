@@ -17,6 +17,14 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitignore",
+		"oF": 0
+		},
 	"/arquitectura/gracias.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -119,7 +127,7 @@
 		"oA": 0,
 		"oAP": "/arte/style.css",
 		"oF": 2,
-		"oS": 0,
+		"oS": 1,
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
@@ -71948,12 +71956,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/landings/images/artista.jpg": {
+		"ft": 16384,
+		"iS": 64952,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/artista.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/landings/images/bkg-arquitectura.jpg": {
 		"ft": 16384,
 		"iS": 90664,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/landings/images/bkg-arquitectura.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/bkg-arte.jpg": {
+		"ft": 16384,
+		"iS": 88104,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/bkg-arte.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -72029,6 +72059,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/landings/images/expoUM.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/galeria.jpg": {
+		"ft": 16384,
+		"iS": 68372,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/galeria.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
