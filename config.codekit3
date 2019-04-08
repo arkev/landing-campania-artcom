@@ -71831,6 +71831,41 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/comunicacion/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/comunicacion/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/comunicacion/style.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/comunicacion/style.css.map",
+		"oF": 0
+		},
+	"/comunicacion/style.less": {
+		"aP": 1,
+		"bl": 0,
+		"eJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"mS": 0,
+		"oA": 0,
+		"oAP": "/comunicacion/style.css",
+		"oF": 2,
+		"oS": 1,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
 	"/diseno/gracias.html": {
 		"cB": 0,
 		"ft": 8192,
