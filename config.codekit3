@@ -72035,6 +72035,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/landings/images/bkg-diseno.jpg": {
+		"ft": 16384,
+		"iS": 63236,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/bkg-diseno.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/landings/images/camarografa.jpg": {
 		"ft": 16384,
 		"iS": 27167,
@@ -72111,6 +72122,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/landings/images/diseno-expo.jpg": {
+		"ft": 16384,
+		"iS": 58364,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/diseno-expo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/landings/images/estudiante-um.png": {
 		"ft": 32768,
 		"iS": 1010849,
@@ -72141,6 +72163,38 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/landings/images/experiencia3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/experiencia3.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/landings/images/expo-diseno.jpg": {
+		"ft": 16384,
+		"iS": 39945,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/expo-diseno.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/landings/images/expo-fotografia.jpg": {
+		"ft": 16384,
+		"iS": 72853,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/expo-fotografia.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/landings/images/expo.jpg": {
 		"ft": 16384,
@@ -72186,6 +72240,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/landings/images/galeria-diseno.jpg": {
+		"ft": 16384,
+		"iS": 30405,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/galeria-diseno.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/landings/images/galeria.jpg": {
 		"ft": 16384,
 		"iS": 68372,
@@ -72197,11 +72262,32 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/landings/images/ilustraciones.jpg": {
+		"ft": 16384,
+		"iS": 129478,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/ilustraciones.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/landings/images/influencia.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/landings/images/influencia.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/landings/images/influencia2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/influencia2.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -72222,6 +72308,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/landings/images/Inspiracion.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/landings/images/internacionalidad.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/internacionalidad.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -72260,6 +72356,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/landings/images/pechakucha.jpg": {
+		"ft": 16384,
+		"iS": 88829,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/pechakucha.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/landings/images/producciones.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -72290,6 +72397,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/landings/images/relacion2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/relacion2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/landings/images/slogan-arquitectura.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -72315,6 +72432,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/landings/images/slogan-comunicacion.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/landings/images/slogan-diseno.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/slogan-diseno.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
