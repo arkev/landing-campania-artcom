@@ -71989,6 +71989,50 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/landings/images/bkg-comunicacion.jpg": {
+		"ft": 16384,
+		"iS": 60408,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/bkg-comunicacion.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/camarografa.jpg": {
+		"ft": 16384,
+		"iS": 27167,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/camarografa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/camarografo.jpg": {
+		"ft": 16384,
+		"iS": 23309,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/camarografo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/camarografo2.jpg": {
+		"ft": 16384,
+		"iS": 47015,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/camarografo2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/landings/images/Certificaciones.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -72010,6 +72054,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/landings/images/congreso-comunicacion.jpg": {
+		"ft": 16384,
+		"iS": 70913,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/congreso-comunicacion.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/congreso-comunicacion2.jpg": {
+		"ft": 16384,
+		"iS": 71825,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/congreso-comunicacion2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/landings/images/estudiante-um.png": {
 		"ft": 32768,
 		"iS": 1010849,
@@ -72026,6 +72092,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/landings/images/Experiencia.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/landings/images/Experiencia2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/Experiencia2.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -72059,6 +72135,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/landings/images/expoUM.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/fotografo.jpg": {
+		"ft": 16384,
+		"iS": 35849,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/fotografo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -72138,6 +72225,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/landings/images/producciones.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/producciones.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/landings/images/quote.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -72173,6 +72270,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/landings/images/slogan-arte.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/landings/images/slogan-comunicacion.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/landings/images/slogan-comunicacion.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
