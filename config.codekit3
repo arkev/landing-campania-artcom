@@ -71902,6 +71902,41 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/diseno/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/diseno/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/diseno/style.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/diseno/style.css.map",
+		"oF": 0
+		},
+	"/diseno/style.less": {
+		"aP": 0,
+		"bl": 1,
+		"eJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"mS": 0,
+		"oA": 0,
+		"oAP": "/diseno/style.css",
+		"oF": 2,
+		"oS": 1,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
 	"/landings/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
