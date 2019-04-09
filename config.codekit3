@@ -71940,35 +71940,35 @@
 	"/landings/images/arquitectos-um-1.jpg": {
 		"ft": 16384,
 		"iS": 49180,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/arquitectos-um-1.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/arquitectos-um-2.jpg": {
 		"ft": 16384,
 		"iS": 77309,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/arquitectos-um-2.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/arquitectos.jpg": {
 		"ft": 16384,
 		"iS": 26919,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/arquitectos.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/artcom.svg": {
 		"ft": 2097152,
@@ -71983,101 +71983,101 @@
 	"/landings/images/arteUM.jpg": {
 		"ft": 16384,
 		"iS": 42627,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/arteUM.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/artista.jpg": {
 		"ft": 16384,
 		"iS": 64952,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/artista.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/bkg-arquitectura.jpg": {
 		"ft": 16384,
 		"iS": 90664,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/bkg-arquitectura.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/bkg-arte.jpg": {
 		"ft": 16384,
 		"iS": 88104,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/bkg-arte.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/bkg-comunicacion.jpg": {
 		"ft": 16384,
 		"iS": 60408,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/bkg-comunicacion.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/bkg-diseno.jpg": {
 		"ft": 16384,
 		"iS": 63236,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/bkg-diseno.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/camarografa.jpg": {
 		"ft": 16384,
 		"iS": 27167,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/camarografa.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/camarografo.jpg": {
 		"ft": 16384,
 		"iS": 23309,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/camarografo.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/camarografo2.jpg": {
 		"ft": 16384,
 		"iS": 47015,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/camarografo2.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/Certificaciones.svg": {
 		"ft": 2097152,
@@ -72103,35 +72103,35 @@
 	"/landings/images/congreso-comunicacion.jpg": {
 		"ft": 16384,
 		"iS": 70913,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/congreso-comunicacion.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/congreso-comunicacion2.jpg": {
 		"ft": 16384,
 		"iS": 71825,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/congreso-comunicacion2.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/diseno-expo.jpg": {
 		"ft": 16384,
 		"iS": 58364,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/diseno-expo.jpg",
 		"oF": 0,
-		"oIPL": 0,
+		"oIPL": 1,
 		"opt": 1,
-		"q": 100
+		"q": 80
 		},
 	"/landings/images/estudiante-um.png": {
 		"ft": 32768,
@@ -72177,101 +72177,101 @@
 	"/landings/images/expo-diseno.jpg": {
 		"ft": 16384,
 		"iS": 39945,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/expo-diseno.jpg",
 		"oF": 0,
-		"oIPL": 0,
+		"oIPL": 1,
 		"opt": 1,
-		"q": 100
+		"q": 80
 		},
 	"/landings/images/expo-fotografia.jpg": {
 		"ft": 16384,
 		"iS": 72853,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/expo-fotografia.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/expo.jpg": {
 		"ft": 16384,
 		"iS": 36964,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/expo.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/expoArtCom.jpg": {
 		"ft": 16384,
 		"iS": 23582,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/expoArtCom.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/expoUM.jpg": {
 		"ft": 16384,
 		"iS": 71313,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/expoUM.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/fotografo.jpg": {
 		"ft": 16384,
 		"iS": 35849,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/fotografo.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/galeria-diseno.jpg": {
 		"ft": 16384,
 		"iS": 30405,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/galeria-diseno.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/galeria.jpg": {
 		"ft": 16384,
 		"iS": 68372,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/galeria.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/ilustraciones.jpg": {
 		"ft": 16384,
 		"iS": 129478,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/ilustraciones.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/influencia.svg": {
 		"ft": 2097152,
@@ -72326,46 +72326,46 @@
 	"/landings/images/maqueta1.jpg": {
 		"ft": 16384,
 		"iS": 43855,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/maqueta1.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/maqueta2.jpg": {
 		"ft": 16384,
 		"iS": 71515,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/maqueta2.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/maqueta3.jpg": {
 		"ft": 16384,
 		"iS": 45228,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/maqueta3.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/pechakucha.jpg": {
 		"ft": 16384,
 		"iS": 88829,
-		"jF": 0,
+		"jF": 2,
 		"oA": 0,
 		"oAP": "/landings/images/pechakucha.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"/landings/images/producciones.svg": {
 		"ft": 2097152,
