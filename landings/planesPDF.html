@@ -8,7 +8,7 @@
     <title>Descargar los planes de las carreras Artcom en la Universidad de Montemorelos</title>
     <meta name="description"
         content="Estudia uana de nuestras 4 licenciaturas; Arte, Arquitectura, Comunicación o Diseño Gráfico, en la Universidad de Montemorelos, una de las mejores universidades de Nuevo León según uniRack">
-    <!-- Global site tag (gtag.js) - Google Analytics-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-137248619-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -23,7 +23,7 @@
 
 <body>
 
-    <!-- Agile-->
+    <!-- Agile -->
     <script>
         (function (a) {
             var b = a.onload,
@@ -66,7 +66,7 @@
             _agile_execute_web_rules();
         };
     </script>
-    <!-- Smart Look-->
+    <!-- Smart Look -->
     <script>
         window.smartlook || (function (d) {
             var o = smartlook = function () {
@@ -83,12 +83,14 @@
         })(document);
         smartlook('init', '818cff109a6b8c89c4ed2a4f077c263e611dffe3');
     </script>
+    <!-- Redireccionar -->
     <script>
-        function redireccionar() {
-            window.locationf = "http://artcom.um.edu.mx/landings/PlanesARTCOM.pdf";
+        window.onload = function redireccionar() {
+            // similar behavior as an HTTP redirect
+            window.location.replace("http://artcom.um.edu.mx/landings/PlanesARTCOM.pdf");
         }
-        setTimeout("redireccionar()", 5000); //tiempo expresado en milisegundos
     </script>
+
 </body>
 
 </html>
