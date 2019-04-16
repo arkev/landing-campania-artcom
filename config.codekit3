@@ -71972,6 +71972,14 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/landings/email.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/landings/email.html",
+		"oF": 0
+		},
 	"/landings/images/arquitectos-um-1.jpg": {
 		"ft": 16384,
 		"iS": 49180,
@@ -72014,6 +72022,28 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/landings/images/artcom1.jpg": {
+		"ft": 16384,
+		"iS": 2544,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/artcom1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/artcom2.jpg": {
+		"ft": 16384,
+		"iS": 12324,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/artcom2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/landings/images/arteUM.jpg": {
 		"ft": 16384,
@@ -72264,6 +72294,17 @@
 		"opt": 1,
 		"q": 80
 		},
+	"/landings/images/facebook.jpg": {
+		"ft": 16384,
+		"iS": 2044,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/facebook.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/landings/images/fotografo.jpg": {
 		"ft": 16384,
 		"iS": 35849,
@@ -72347,6 +72388,17 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/landings/images/instagram.jpg": {
+		"ft": 16384,
+		"iS": 3190,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/instagram.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/landings/images/internacionalidad.svg": {
 		"ft": 2097152,
@@ -72482,6 +72534,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/landings/images/telefono.jpg": {
+		"ft": 16384,
+		"iS": 2447,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/telefono.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/landings/images/transparente.png": {
 		"ft": 32768,
 		"iS": 110,
@@ -72502,6 +72565,28 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/landings/images/um1.jpg": {
+		"ft": 16384,
+		"iS": 4674,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/um1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/landings/images/um2.jpg": {
+		"ft": 16384,
+		"iS": 8064,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/landings/images/um2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/landings/includes/beneficios.pug": {
 		"cB": 0,
@@ -72639,6 +72724,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/landings/PlanesARTCOM.pdf",
+		"oF": 0
+		},
+	"/landings/planesPDF.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/landings/planesPDF.html",
 		"oF": 0
 		}
 	},
